@@ -1,5 +1,7 @@
 import tkinter
 import os
+import time
+import cv2
 from tkinter import *
 from tkinter.messagebox import *
 from tkinter.filedialog import *
